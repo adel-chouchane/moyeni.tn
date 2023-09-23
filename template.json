@@ -1,0 +1,56 @@
+{
+    "scf0": {
+        "math": {
+            "ds": 0,
+            "exam": 0
+        },
+        "syslog": {
+            "ds": 0,
+            "exam": 0
+        }
+    },
+    "reseau-sys": {
+        "reseau": {
+            "ds": 0,
+            "exam": 0
+        },
+        "linux": {
+            "ds": 0,
+            "exam": 0
+        }
+    },
+    "algo-prog": {
+        "algo": {
+            "ds": 0,
+            "exam": 0 
+        },
+        "progC": {
+            "ds": 0,
+            "exam": 0
+        }
+    },
+    "sys-info": {
+        "htmlcss": {
+            "ds": 0,
+            "exam": 0
+        },
+        "bd": {
+            "ds": 0,
+            "exam": 0
+        },
+        "cloud": {
+            "ds": 0,
+            "exam": 0
+        }
+    },
+    "langues": {
+        "tech-com": {
+            "ds": 0,
+            "exam": 0
+        },
+        "eng": {
+            "ds": 0,
+            "exam": 0
+        }
+    }
+}
